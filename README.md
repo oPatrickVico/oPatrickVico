@@ -26,7 +26,7 @@ Eu possuo as seguintes habilidades:
 - Gestão de Sistemas de Computação:
   - Bash, conceitos de Linux
 
-Atualmente, estou aprendendo C# e PHP.
+Atualmente, estou aprendendo PHP.
 
 Minha visão de carreira atual é conseguir uma posição de desenvolvedor web fullstack júnior, enquanto aprendo mais sobre computadores e programação. Potenciais caminhos que cogito são desenvolvimento de jogos e estudo de inteligncia artificial.
 
