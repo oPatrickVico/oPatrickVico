@@ -20,15 +20,11 @@ Meu nome é Alan e eu estou cursando Análise de Sistemas pela Estácio.
 Eu possuo as seguintes habilidades:
 
 - Desenvolvimento de sites:
-  - Typescript, React, Bootstrap, Vite\Vitest
+  - Typescript, React, Tailwind, Vite, Jest
 - Desenvolvimento de aplicações de servidor:
-  - Node\Express, PHP
+  - Node: Express e Next
 - Gestão de Sistemas de Computação:
   - Bash, conceitos de Linux
-
-Atualmente, estou aprendendo PHP.
-
-Minha visão de carreira atual é conseguir uma posição de desenvolvedor web fullstack júnior, enquanto aprendo mais sobre computadores e programação. Potenciais caminhos que cogito são desenvolvimento de jogos e estudo de inteligncia artificial.
 
 Você pode entrar em contato comigo por:
 
