@@ -28,7 +28,7 @@ Eu possuo as seguintes habilidades:
 
 Você pode entrar em contato comigo por:
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alan-patrick-294180116/) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/oPatrickVico/) 
   [![Twitter\X](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/oPatrickVico) 
 
 Às vezes, escrevo no [meu blog](https://dev.to/oPatrickVico)
